@@ -2,9 +2,7 @@
 title: "test1"
 author: "SL"
 date: "2025-08-13"
-output: 
-  html_document: 
-    keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
